@@ -2,7 +2,11 @@
 
 <!--
 **nafisahnumbers/nafisahnumbers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Nafisat. I'm a Data Analyst who loves working with numbers and understanding processes. I have a degree in Statistics from Obafemi Awolowo University. Right now, I'm a freelancer, working on projects with tools like Excel, Power BI, SQL and Python. I also work on my own personal projects here and there. In the near future, I plan to learn R and cross in the world of Data Science and Machine Learning. I am open to work opportunities or collaborations. If you want to discuss some of my projects or have any suggestions, please don't hesitate to contact me on ahmednafisah19@gmail.com.
 
+Thanks you,
+
+Nafisat
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
